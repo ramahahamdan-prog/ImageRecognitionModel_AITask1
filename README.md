@@ -88,11 +88,6 @@ Confidence: 98.4%
 
 ---
 
-## Screenshots
-![Code](code.png)
-![Output](output.png)
-
----
 
 ## Conclusion
 
